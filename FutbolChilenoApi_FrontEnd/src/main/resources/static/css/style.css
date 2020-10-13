@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body {
+	
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+header {
+  background-image: url('/img/1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  padding-bottom: 10rem;
+}
+
+#logo {
+	
+	width:20%;
+    height:20%;
+	
+}
+
+#tabla {
+	
+	color: #ffffff;
+	
+}
+
+#card1 {
+	
+	color: #301743;
+	font-weight: bold;
+	
+}
+
+h3 {
+	
+	color: #272628;
+	font-weight: bold;
+}
